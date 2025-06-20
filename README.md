@@ -1,7 +1,6 @@
 # Welcome to LightLog
 This is LightKing's Personal Blog.
-
----
+There will be record develop of LightLig and use version control system to manage all of the project. every modifications will be record on the file README.md.
 
 ## Version Update Log
 Here is ducumented on record the update log of LightLog.
